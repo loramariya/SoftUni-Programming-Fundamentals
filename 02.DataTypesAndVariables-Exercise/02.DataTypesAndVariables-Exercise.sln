@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.IntegerOperations", "01.IntegerOperations\01.IntegerOperations.csproj", "{E1BF288A-DF73-41AB-9B37-B136C4320658}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SumDigits", "02.SumDigits\02.SumDigits.csproj", "{0DDD2DF9-2E7A-4A08-9693-FBDEE696A938}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Elevator", "03.Elevator\03.Elevator.csproj", "{E1526DCE-AEBA-4EC4-B6D1-5F579CD3597E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SumOfChars", "04.SumOfChars\04.SumOfChars.csproj", "{388B83C5-5A8B-4CD1-94B1-D6193C4CA3A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.PrintASCIITable", "05.PrintASCIITable\05.PrintASCIITable.csproj", "{91902903-C94C-4616-91DB-7E3BF987C4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TriplesOfLatinLetters", "06.TriplesOfLatinLetters\06.TriplesOfLatinLetters.csproj", "{DCBD2FD2-45F5-48F1-A738-6400CBBCD924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.WaterOverflow", "07.WaterOverflow\07.WaterOverflow.csproj", "{BC51BE79-AB67-4568-8249-205370D48C91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BeerKegs", "08.BeerKegs\08.BeerKegs.csproj", "{2C91A182-FE0A-4B9F-9CC6-8B2AA84CD9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SpiceMustFlow", "09.SpiceMustFlow\09.SpiceMustFlow.csproj", "{C5F6CF91-A760-4017-A003-EDE66B1EBA35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PokeMon", "10.PokeMon\10.PokeMon.csproj", "{A680A679-C814-46C8-AE39-5B774A1F43F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Snowballs", "11.Snowballs\11.Snowballs.csproj", "{E31E9BE2-FEEA-41F3-ADA2-8E543394DD67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BF288A-DF73-41AB-9B37-B136C4320658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BF288A-DF73-41AB-9B37-B136C4320658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BF288A-DF73-41AB-9B37-B136C4320658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BF288A-DF73-41AB-9B37-B136C4320658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDD2DF9-2E7A-4A08-9693-FBDEE696A938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDD2DF9-2E7A-4A08-9693-FBDEE696A938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDD2DF9-2E7A-4A08-9693-FBDEE696A938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDD2DF9-2E7A-4A08-9693-FBDEE696A938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1526DCE-AEBA-4EC4-B6D1-5F579CD3597E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1526DCE-AEBA-4EC4-B6D1-5F579CD3597E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1526DCE-AEBA-4EC4-B6D1-5F579CD3597E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1526DCE-AEBA-4EC4-B6D1-5F579CD3597E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388B83C5-5A8B-4CD1-94B1-D6193C4CA3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388B83C5-5A8B-4CD1-94B1-D6193C4CA3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388B83C5-5A8B-4CD1-94B1-D6193C4CA3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388B83C5-5A8B-4CD1-94B1-D6193C4CA3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91902903-C94C-4616-91DB-7E3BF987C4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91902903-C94C-4616-91DB-7E3BF987C4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91902903-C94C-4616-91DB-7E3BF987C4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91902903-C94C-4616-91DB-7E3BF987C4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCBD2FD2-45F5-48F1-A738-6400CBBCD924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBD2FD2-45F5-48F1-A738-6400CBBCD924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBD2FD2-45F5-48F1-A738-6400CBBCD924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBD2FD2-45F5-48F1-A738-6400CBBCD924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC51BE79-AB67-4568-8249-205370D48C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC51BE79-AB67-4568-8249-205370D48C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC51BE79-AB67-4568-8249-205370D48C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC51BE79-AB67-4568-8249-205370D48C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C91A182-FE0A-4B9F-9CC6-8B2AA84CD9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C91A182-FE0A-4B9F-9CC6-8B2AA84CD9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C91A182-FE0A-4B9F-9CC6-8B2AA84CD9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C91A182-FE0A-4B9F-9CC6-8B2AA84CD9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5F6CF91-A760-4017-A003-EDE66B1EBA35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F6CF91-A760-4017-A003-EDE66B1EBA35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F6CF91-A760-4017-A003-EDE66B1EBA35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F6CF91-A760-4017-A003-EDE66B1EBA35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A680A679-C814-46C8-AE39-5B774A1F43F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A680A679-C814-46C8-AE39-5B774A1F43F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A680A679-C814-46C8-AE39-5B774A1F43F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A680A679-C814-46C8-AE39-5B774A1F43F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31E9BE2-FEEA-41F3-ADA2-8E543394DD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31E9BE2-FEEA-41F3-ADA2-8E543394DD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31E9BE2-FEEA-41F3-ADA2-8E543394DD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31E9BE2-FEEA-41F3-ADA2-8E543394DD67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED8EE7F5-BE9D-417E-BCB7-E44B5054D3AB}
+	EndGlobalSection
+EndGlobal
