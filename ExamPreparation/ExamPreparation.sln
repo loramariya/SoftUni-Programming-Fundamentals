@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GuineaPig", "01.GuineaPig\01.GuineaPig.csproj", "{A1A228D8-4D31-4AB3-920F-18768E7DB756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TheLift", "02.TheLift\02.TheLift.csproj", "{D1CE28A2-73B9-4FC6-BE75-60A2CE08F9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MovingTarget", "03.MovingTarget\03.MovingTarget.csproj", "{A76E1ED8-1AF4-47B3-BE5C-E227ED5DB6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ComputerStore", "01.ComputerStore\01.ComputerStore.csproj", "{4C919BCF-92E8-4B0C-999F-84DA2FCFE109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ShootForTheWin", "02.ShootForTheWin\02.ShootForTheWin.csproj", "{217B3231-13B8-49C8-B7EB-E168E85823E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MemoryGame", "03.MemoryGame\03.MemoryGame.csproj", "{87BBF4D3-643C-4680-9515-C4ACAB6805F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1A228D8-4D31-4AB3-920F-18768E7DB756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A228D8-4D31-4AB3-920F-18768E7DB756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A228D8-4D31-4AB3-920F-18768E7DB756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A228D8-4D31-4AB3-920F-18768E7DB756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1CE28A2-73B9-4FC6-BE75-60A2CE08F9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CE28A2-73B9-4FC6-BE75-60A2CE08F9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CE28A2-73B9-4FC6-BE75-60A2CE08F9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CE28A2-73B9-4FC6-BE75-60A2CE08F9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76E1ED8-1AF4-47B3-BE5C-E227ED5DB6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76E1ED8-1AF4-47B3-BE5C-E227ED5DB6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76E1ED8-1AF4-47B3-BE5C-E227ED5DB6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76E1ED8-1AF4-47B3-BE5C-E227ED5DB6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C919BCF-92E8-4B0C-999F-84DA2FCFE109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C919BCF-92E8-4B0C-999F-84DA2FCFE109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C919BCF-92E8-4B0C-999F-84DA2FCFE109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C919BCF-92E8-4B0C-999F-84DA2FCFE109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217B3231-13B8-49C8-B7EB-E168E85823E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217B3231-13B8-49C8-B7EB-E168E85823E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217B3231-13B8-49C8-B7EB-E168E85823E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217B3231-13B8-49C8-B7EB-E168E85823E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BBF4D3-643C-4680-9515-C4ACAB6805F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BBF4D3-643C-4680-9515-C4ACAB6805F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BBF4D3-643C-4680-9515-C4ACAB6805F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BBF4D3-643C-4680-9515-C4ACAB6805F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2462324E-93C3-44B3-8559-F00A3B60C0BE}
+	EndGlobalSection
+EndGlobal
