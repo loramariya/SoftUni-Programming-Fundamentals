@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountCharsInAString", "01.CountCharsInAString\01.CountCharsInAString.csproj", "{D11F01AC-338A-4B38-BB6F-9A2B6FB70207}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AMinerTask", "02.AMinerTask\02.AMinerTask.csproj", "{FE39330E-517C-4E11-BEE0-54DAC97538D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Orders", "03.Orders\03.Orders.csproj", "{51EE1ED2-280D-4D1B-B450-3B67814002E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SoftUniParking", "04.SoftUniParking\04.SoftUniParking.csproj", "{B16D92FF-1D8B-4C1E-B3D8-D5FAC1753993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Courses", "05.Courses\05.Courses.csproj", "{D4385662-5679-4AB6-B2D6-87BBCBC60B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StudentAcademy", "06.StudentAcademy\06.StudentAcademy.csproj", "{CAD64716-F97F-4BA0-9B96-FC61D5C62415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CompanyUsers", "07.CompanyUsers\07.CompanyUsers.csproj", "{5027BD2A-28F0-43DD-9D1D-7A8A3BC0EE6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11F01AC-338A-4B38-BB6F-9A2B6FB70207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11F01AC-338A-4B38-BB6F-9A2B6FB70207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11F01AC-338A-4B38-BB6F-9A2B6FB70207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11F01AC-338A-4B38-BB6F-9A2B6FB70207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE39330E-517C-4E11-BEE0-54DAC97538D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE39330E-517C-4E11-BEE0-54DAC97538D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE39330E-517C-4E11-BEE0-54DAC97538D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE39330E-517C-4E11-BEE0-54DAC97538D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EE1ED2-280D-4D1B-B450-3B67814002E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EE1ED2-280D-4D1B-B450-3B67814002E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EE1ED2-280D-4D1B-B450-3B67814002E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EE1ED2-280D-4D1B-B450-3B67814002E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16D92FF-1D8B-4C1E-B3D8-D5FAC1753993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16D92FF-1D8B-4C1E-B3D8-D5FAC1753993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16D92FF-1D8B-4C1E-B3D8-D5FAC1753993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16D92FF-1D8B-4C1E-B3D8-D5FAC1753993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4385662-5679-4AB6-B2D6-87BBCBC60B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4385662-5679-4AB6-B2D6-87BBCBC60B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4385662-5679-4AB6-B2D6-87BBCBC60B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4385662-5679-4AB6-B2D6-87BBCBC60B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD64716-F97F-4BA0-9B96-FC61D5C62415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD64716-F97F-4BA0-9B96-FC61D5C62415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD64716-F97F-4BA0-9B96-FC61D5C62415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD64716-F97F-4BA0-9B96-FC61D5C62415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5027BD2A-28F0-43DD-9D1D-7A8A3BC0EE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5027BD2A-28F0-43DD-9D1D-7A8A3BC0EE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5027BD2A-28F0-43DD-9D1D-7A8A3BC0EE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5027BD2A-28F0-43DD-9D1D-7A8A3BC0EE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D6A65F-DA76-4C2B-AA7C-E0016A3E1F2D}
+	EndGlobalSection
+EndGlobal
