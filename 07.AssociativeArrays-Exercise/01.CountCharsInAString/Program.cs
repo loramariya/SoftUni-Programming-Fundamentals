@@ -12,7 +12,7 @@
             {
                 char character = input[i];
 
-                if (character == ' ') ;
+                if (character == ' ')
                 {
                     continue;
                 }
